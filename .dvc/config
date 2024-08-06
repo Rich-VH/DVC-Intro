@@ -1,6 +1,8 @@
 [core]
-    remote = remote-storage
+    remote = local_remote
 ['remote "remote"']
     url = gdrive://1Hg7ekXKSP24ThbWpvxPDicyYj0_nb-8J
 ['remote "remote-storage"']
     url = gdrive://1LrDSmA8mJZ9_mFbD-bkaGREFWE64EatN
+['remote "local_remote"']
+    url = /Users/ricardo.valdez/Documents/Demo1/local_storage
